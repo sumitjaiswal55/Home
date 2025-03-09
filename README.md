@@ -43,4 +43,5 @@
 
 ---
 
-💡 _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
+
+💡 _“Hustle, build, and stay unstoppable. The journey is yours to create.”_
