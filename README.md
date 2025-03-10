@@ -2,7 +2,7 @@
 
 🚀 **Aspiring Full-Stack Developer** | Passionate about **Web Development & AI**  
 🎓 Student at **GHRIET, Nagpur**  
-💡 Enthusiastic about **MERN Stack, Deep Learning, and Networking**  
+💡 Enthusiastic about **MERN Stack**  
 📌 Open to **collaborations & freelance opportunities**  
 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/sumitjaiswal55/)**  
 
