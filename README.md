@@ -87,20 +87,20 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=sumitjaiswal55&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Sumit's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sumitjaiswal55&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" alt="Sumit's GitHub stats" />
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitjaiswal55&layout=compact&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitjaiswal55&layout=compact&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Top Langs" />
     </td>
   </tr>
   <tr>
     <td width="100%" colspan="2" valign="top">
-      <img src="https://streak-stats.demolab.com/?user=sumitjaiswal55&theme=dracula&hide_border=true" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=sumitjaiswal55&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
    <tr>
     <td width="100%" colspan="2" valign="top">
-      <img src="https://github-profile-trophy.vercel.app/?username=sumitjaiswal55&theme=dracula&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=sumitjaiswal55&theme=gruvbox&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
     </td>
   </tr>
 </table>
@@ -113,19 +113,19 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/sumitjaiswal55/Wonderlust-Hotel-Listing-Web-App" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sumitjaiswal55&repo=Wonderlust-Hotel-Listing-Web-App&theme=dracula&hide_border=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sumitjaiswal55&repo=Wonderlust-Hotel-Listing-Web-App&theme=gruvbox&hide_border=true" />
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/sumitjaiswal55/swiggy-UI-clone" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sumitjaiswal55&repo=swiggy-UI-clone&theme=dracula&hide_border=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sumitjaiswal55&repo=swiggy-UI-clone&theme=gruvbox&hide_border=true" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/sumitjaiswal55/InnerBhakti" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sumitjaiswal55&repo=InnerBhakti&theme=dracula&hide_border=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sumitjaiswal55&repo=InnerBhakti&theme=gruvbox&hide_border=true" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -146,5 +146,5 @@
   </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumitjaiswal55&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sumitjaiswal55&label=Profile%20Views&color=fabd2f&style=flat" alt="Profile Views"/>
 </div>
